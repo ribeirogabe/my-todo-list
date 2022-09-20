@@ -266,7 +266,7 @@ select{
     height: 15vh;
     width: 15vw;
     position: relative;
-    top: 440px;
+    top: 480px;
     left: 5vw;
     display: flex;
     align-items: flex-end;
@@ -307,12 +307,12 @@ select{
 .gif{
     position: absolute;
     display: flex;
-    left: 63vw;
-    top: 75vh;
+    left: 62vw;
+    top: 66vh;
 }
 
 .gif img{
-    height: 20vh;
-    width: 34vw;
+    height: 28vh;
+    width: 33vw;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.6);
 }
